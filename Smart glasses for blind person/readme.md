@@ -12,4 +12,4 @@ Jumper wires |
 
 # FUTURE GOALS :-
 
-Although there is scope of improvement and our team is working on a better version which will be more user friendly and precize which will bw made using some new technologies such as OpenCV, GTTP, etc.
+Although there is scope of improvement and our team is working on a better version which will be more user friendly and precize which will bw made using some new technologies such as OpenCV, GTTS, etc.
