@@ -1,5 +1,6 @@
-## IoT-based-projects
+# IoT-based-projects
 
-# Projects:
+## Projects:
 
-1) Smart Glasses for Blind Indivisuals 
+- Smart Glasses for Blind Indivisuals 
+- Arduino Radar 
