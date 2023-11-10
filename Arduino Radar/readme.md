@@ -20,4 +20,11 @@ This Arduino Radar project involves the use of a servo motor and an ultrasonic s
 
 ## Block Diagram
 
-## 
+## Connect with me👨‍💻
+
+:rocket:[Connect with me on LinkedIn](https://www.linkedin.com/in/pratik-more-0397bb291/)
+
+:rocket:[Follow me on Twitter](https://twitter.com/aero5665)
+
+:rocket:[Check out my Instagram](https://www.instagram.com/pratik_6558/)
+
