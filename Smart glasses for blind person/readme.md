@@ -1,6 +1,6 @@
 # SMART GLASSES FOR BLIND PEOPLE
 
-This IoT project basically works as a third eye for visually impaired people.
+Smart glasses designed for blind individuals using an Arduino Uno, ultrasonic sensor, MP3 module, and speaker. The system enhances independence and safety by detecting obstacles, providing real-time audio feedback, and offering navigation assistance.
 
 # COMPONENTS USED :-
 
