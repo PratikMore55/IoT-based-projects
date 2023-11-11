@@ -18,7 +18,7 @@ This Arduino Radar project involves the use of a servo motor and an ultrasonic s
 
 ## Circuit Diagram
 
-## Block Diagram
+![Arduino Radar circuit Diagram](https://github.com/PratikMore55/IoT-based-projects/assets/138502602/8e2acfb1-db3e-4914-8d54-ee1f31f0e713)
 
 ## Screenshots
 
