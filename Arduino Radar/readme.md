@@ -20,6 +20,10 @@ This Arduino Radar project involves the use of a servo motor and an ultrasonic s
 
 ## Block Diagram
 
+## Screenshots
+
+![WhatsApp Image 2023-11-10 at 14 40 45](https://github.com/PratikMore55/IoT-based-projects/assets/138502602/0b0d38db-13bf-408d-8c86-2dfc7dd534ca)
+
 ## Connect with me👨‍💻
 
 :rocket:[Connect with me on LinkedIn](https://www.linkedin.com/in/pratik-more-0397bb291/)
@@ -27,4 +31,3 @@ This Arduino Radar project involves the use of a servo motor and an ultrasonic s
 :rocket:[Follow me on Twitter](https://twitter.com/aero5665)
 
 :rocket:[Check out my Instagram](https://www.instagram.com/pratik_6558/)
-
