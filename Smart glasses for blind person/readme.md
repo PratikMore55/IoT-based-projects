@@ -19,7 +19,10 @@ Smart glasses designed for blind individuals using an Arduino Uno, ultrasonic se
 
 ![circuit diagram 2](https://github.com/PratikMore55/IoT-based-projects/assets/138502602/0290fa2a-c11c-4da8-99ba-ac1ddc9bd292)
 
-## Block Diagram :-
+## Screenshots :-
+
+![WhatsApp Image 2023-11-12 at 01 51 04](https://github.com/PratikMore55/IoT-based-projects/assets/138502602/b8e7e073-90b6-4748-aa77-061091e5a6c4)
+
 
 ## Connect with me👨‍💻
 
