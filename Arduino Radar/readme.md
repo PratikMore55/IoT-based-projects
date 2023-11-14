@@ -13,8 +13,12 @@ This Arduino Radar project involves the use of a servo motor and an ultrasonic s
 
 ## Software Requirments
 
-- Arduino IDE
-- Processing (for graphical representation)
+- Arduino IDE : Download link = https://www.arduino.cc/en/software
+- Processing (for graphical representation) : Download link = https://processing.org/download
+
+## Required Library
+
+- Servo.h : Download link = https://www.arduino.cc/reference/en/libraries/servo/ (1.2.1)
 
 ## Circuit Diagram
 
