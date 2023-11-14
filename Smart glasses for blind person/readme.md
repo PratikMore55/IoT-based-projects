@@ -13,7 +13,12 @@ Smart glasses designed for blind individuals using an Arduino Uno, ultrasonic se
 
 ## Software :-
 
-- Arduino IDE
+- Arduino IDE : Download link = https://www.arduino.cc/en/software
+
+## Required libraries :- 
+
+- SoftwareSerial.h : https://github.com/codebendercc/arduino-library-files/blob/master/libraries/SoftwareSerial/SoftwareSerial.h
+- DFRobotDFPlayerMini.h : https://github.com/DFRobot/DFRobotDFPlayerMini
 
 ## Circuit Diagram :- 
 
