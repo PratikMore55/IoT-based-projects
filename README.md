@@ -2,5 +2,5 @@
 
 ## Projects:
 
-- Smart Glasses for Blind Indivisuals 
+- Smart glasses for blind person
 - Arduino Radar 
