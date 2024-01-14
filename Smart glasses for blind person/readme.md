@@ -35,6 +35,3 @@ Smart glasses designed for blind individuals using an Arduino Uno, ultrasonic se
 
 :rocket:[Follow me on Twitter](https://twitter.com/aero5665)
 
-:rocket:[Check out my Instagram](https://www.instagram.com/pratik_6558/)
-
-
