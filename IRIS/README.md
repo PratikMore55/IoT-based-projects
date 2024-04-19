@@ -14,7 +14,7 @@ IRIS is a Smart device for a blind indivisuals which serves various functionalit
 - Buttons
 - Earphone
 
-### SOFTWARE
+### SOFTWARE:
 
 - VNC Viewer
 - OCR-GTTS
