@@ -2,7 +2,39 @@ import serial
 from time import sleep
 import webbrowser
 import sys
+import telepot
+from telepot.loop import MessageLoop
 #import os
+
+def handle(msg):
+    global telegramText
+    global chat_id
+  
+    chat_id = msg['chat']['id']
+    telegramText = msg['text']
+  
+    print('Message received from ' + str(chat_id))
+  
+    if telegramText == '/locate':
+        bot.sendMessage(chat_id, 'Obtaining Location')
+        
+        #bot.sendMessage(chat_id)
+        #bot.sendMessage(chat_id, 'Latitude = xxxxx')   # for tesing purpose
+        #bot.sendMessage(chat_id)
+        #bot.sendMessage(chat_id, 'Longitude = xxxxx')       # for tesing purpose
+        
+        #bot.sendMessage(chat_id)
+        #print("GPS_Info()")
+        #bot.sendMessage(chat_id, print(GPS_Info()))
+
+    while True:
+        GPS_Info()
+        #convert_to_degrees(raw_value)
+    
+           
+
+bot = telepot.Bot('Telegram Bot ID')
+bot.message_loop(handle)   
 
 def GPS_Info():
     global NMEA_buff
@@ -14,6 +46,9 @@ def GPS_Info():
     nmea_time = NMEA_buff[0]
     nmea_latitude = NMEA_buff[1]
     nmea_longitude = NMEA_buff[3]
+    
+    nmea_latitude = 18.6229
+    nmea_longitude = 73.8161
     
     print(nmea_time,'\n')
     print("Lat = ", nmea_latitude, "Long = ", nmea_longitude,'\n')
@@ -59,4 +94,4 @@ try:
             
 except KeyboardInterrupt:
     webbrowser.open(map_link)
-    sys.exit(0) 
+    sys.exit(0)
