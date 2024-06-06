@@ -59,6 +59,12 @@ This function tells if the currency given to the blind person is fake or real an
 
 ---
 
+## Project Flow
+
+<img src="https://github.com/PratikMore55/IoT-based-projects/assets/138502602/398f3cf1-d4d8-40a0-9eda-aa726f1fd356" height="450">
+
+---
+
 ## CIRCUIT DIAGRAM IMPLEMENTATION:
 
 
@@ -96,3 +102,4 @@ This function tells if the currency given to the blind person is fake or real an
 :rocket:[Connect with me on LinkedIn](https://www.linkedin.com/in/pratik-more-0397bb291/)
 
 :rocket:[Follow me on Twitter](https://twitter.com/aero5665)
+
