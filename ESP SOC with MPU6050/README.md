@@ -1,4 +1,4 @@
-ESP32 SOC with MPU6050 with UUSB type C for powering up the system and programming the ESP SOC.
+ESP32 SOC with MPU6050 with USB type C for powering up the system and programming the ESP SOC.
 ---
 
 ![Screenshot 2024-10-16 190308](https://github.com/user-attachments/assets/b9dc5504-8ad7-4302-8149-529552030982)
